@@ -40,9 +40,3 @@ I enjoy combining creative design and programming to bring ideas to life! When I
 
 ---
 
-### **Next Steps**
-1. Add this content to the `README.md` file of your profile repository.
-2. Update the links for your featured projects once you have your repositories ready.
-3. Experiment with adding a banner or images for visual impact.
-
-Let me know if you need help refining any section or want ideas for projects to showcase! 😊
