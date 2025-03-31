@@ -1,4 +1,4 @@
-# Hi there, I'm Stacy (aka Ace) 👋
+# Hi there, I'm Stacy 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/Acyhome?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Acyhome?style=social)
