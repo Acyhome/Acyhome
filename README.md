@@ -4,12 +4,12 @@
 ![GitHub stars](https://img.shields.io/github/stars/Acyhome?style=social)
 
 ## 👩‍💻 About Me
-I'm an aspiring software developer with a passion for building impactful and user-friendly applications. During my scholarship course at PowerLearn Project Kenya, I explored a variety of programming languages and frameworks, and I’m excited to continue learning and growing in the tech world.
+I'm an aspiring software developer who is passionate about building impactful and user-friendly applications. I am currently taking my software Development Course Scholarship at PowerLearn Project Kenya. I am exploring a variety of programming languages and frameworks, and I’m excited to continue learning and growing in the tech world.
 
 - 🌱 I’m currently learning advanced web development and mobile application design.
 - 🎯 My goal: To build projects that solve real-world problems and contribute to open-source communities.
 - 💬 Ask me about: HTML, CSS, Python, Django, JavaScript, Flutter with Dart, and MEL Programming.
-- 📫 Reach me: **stacywahome@example.com**
+- 📫 Reach me: **wahomestacy6@gmail.com**
 
 ---
 
