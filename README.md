@@ -4,7 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/Acyhome?style=social)
 
 ## 👩‍💻 About Me
-I'm an aspiring software developer who is passionate about building impactful and user-friendly applications. I am currently taking my software Development Course Scholarship at PowerLearn Project Kenya. I am exploring a variety of programming languages and frameworks, and I’m excited to continue learning and growing in the tech world.
+I'm a software development student who is passionate about building impactful and user-friendly applications. I am currently taking my software Development Course Scholarship at PowerLearn Project Kenya. I am exploring a variety of programming languages and frameworks, and I’m excited to continue learning and growing in the tech world.
 
 - 🌱 I’m currently learning advanced web development and mobile application design.
 - 🎯 My goal: To build projects that solve real-world problems and contribute to open-source communities.
